@@ -3,7 +3,6 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-blue.svg)](https://powerbi.microsoft.com)
 [![SQL](https://img.shields.io/badge/SQL-Analysis-green.svg)](https://sql.org)
 [![Excel](https://img.shields.io/badge/Excel-Data%20Modeling-orange.svg)](https://microsoft.com/excel)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## 📋 Overview
 
@@ -31,6 +30,12 @@ An interactive Power BI dashboard that analyzes regional sales performance acros
 - **Excel**: Data validation and additional analysis
 - **Azure**: Cloud deployment and data sources
 - **Python**: Advanced analytics and data processing
+
+## 🎯 Live Demo
+
+**🌐 [View Live Demo](https://shivamsahugzp.github.io/portfolio-projects-demo-hub/#sales-demo)** | **📁 [Source Code](https://github.com/shivamsahugzp/executive-sales-analytics-dashboard)**
+
+Interactive demonstration showcasing the Power BI dashboard, regional analysis, and executive insights.
 
 ## 🚀 Quick Start
 
@@ -455,7 +460,6 @@ class SalesAnalyticsEngine:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
